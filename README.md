@@ -1,17 +1,22 @@
 SOLE-SHOPPER-PROJECT
+
 Programmed by:-
+
 ANKIT YADAV (22112309):- https://github.com/Ankit160009
 VARDAN TEWARI (22112340):- https://github.com/Vardan-Tewari
+
 Description:-
-The Sole Shopper project is a straightforward shopping application that runs on a console interface. Its purpose is to allow users to choose and buy shoes from three popular brands: Nike, Adidas, and Puma. Users have the ability to add shoes to their virtual shopping cart, remove items from the cart, generate a bill with the total cost, and complete the payment process using UPI (Unified Payments Interface).
+
+The Sole Shopper project is a straightforward shopping application that runs on a console interface. Its purpose is to allow users to choose and buy shoes from three popular brands: Nike, Adidas, and Puma. Users 
+have the ability to add shoes to their virtual shopping cart, remove items from the cart, generate a bill with the total cost, and complete the payment process using UPI (Unified Payments Interface).
 
 This project consists of several functions, each responsible for handling different steps in the shopping process. The main() function acts as the starting point and asks the user for their personal details like name, phone number, age, and address. Afterward, it presents a menu displaying options such as browsing for shoes, viewing the cart, removing items from the cart, generating a bill, or exiting the program. Depending on the user's selection, the corresponding function is called to carry out the desired action.
 
 To store the selected items and their prices, the project utilizes lists and dictionaries. It also incorporates input validation techniques to ensure that users enter valid information and make appropriate choices throughout their shopping experience.
 
 Functionality:-
-Gathering User Information:
 
+Gathering User Information:
 Users are asked to provide their name, phone number, age, and address.
 The phone number and age inputs are checked to ensure they meet the required criteria.
 Shopping Experience:
@@ -63,12 +68,9 @@ Pre-requisites:-
 Before you start the Sole Shopper project, make sure that your system has Python installed, preferably version 3 or a newer version.
 
 Sample Output:-
-1.
-image
-2.
-Screenshot 2023-06-20 at 9 51 27 AM
-3.
-Screenshot 2023-06-20 at 9 51 41 AM
-4.
-Screenshot 2023-06-20 at 9 52 02 AM
-Thank you for viewing our project :))
+![image](https://github.com/Vardan-Tewari/SOLE-SHOPPER/assets/136142144/ec520929-539d-423c-b6da-b3eb81f1e344)
+![image](https://github.com/Vardan-Tewari/SOLE-SHOPPER/assets/136142144/eeb892a5-0f08-4561-b420-804a062204f9)
+![image](https://github.com/Vardan-Tewari/SOLE-SHOPPER/assets/136142144/4fb7e5aa-a1ef-4f59-b722-7fec2055b223)
+![image](https://github.com/Vardan-Tewari/SOLE-SHOPPER/assets/136142144/c3262b59-bda3-44d1-a480-f10c1a4ccc1d)
+
+Thank You for Viewing our Project ;))
